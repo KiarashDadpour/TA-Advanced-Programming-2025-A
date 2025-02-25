@@ -86,5 +86,29 @@ print(f"{word * times}")
 
 temp = float(input("Please enter the temp in F: "))
 C = (temp - 32) * 5/9
-print(f"{temp} F is {C:.4f} C") 
+print(f"{temp} F is {C:.4f} C")
 
+# -------------------------------------- #
+
+file = open("data.txt", "w")
+file.write("Hello, World!")
+file.close()
+
+# -------------------------------------- #
+
+file = open("data.txt", "r")
+content = file.read()
+print(content)
+file.close()
+
+# -------------------------------------- #
+
+file = open("data.txt", "a")
+file.write("\nThis is a new line added!")
+file.close()
+
+# -------------------------------------- #
+
+with open("file.txt", "w") as file:
+    file.write("Data Science")
+    
