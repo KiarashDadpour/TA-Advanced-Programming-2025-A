@@ -12,6 +12,7 @@
 - ### [Kiarash Dadpour](https://www.linkedin.com/in/kiarash-dadpour-734283300/)
 - ### [Asal Mahmodi Nejad](https://www.linkedin.com/in/asal-mahmodi-65008b353/)
 - ### [Mehran Askarnezhad](https://www.linkedin.com/in/mehran-askarnezhad/)
+- ### [AmirSaeed Belarak](https://www.linkedin.com/in/amirsaeed-belarak/)
 
 
 ---
