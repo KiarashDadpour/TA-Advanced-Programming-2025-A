@@ -3,6 +3,7 @@
 ## Syllables:  
 - ###   Python Basics
 - ###   Control Flow
+- ###   Loops
 - ###   Data Structures
 - ###   Functions
 - ###   Object-Oriented Programming (OOP)
