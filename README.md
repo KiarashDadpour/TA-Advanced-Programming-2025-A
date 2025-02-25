@@ -11,8 +11,8 @@
 ## Teaching Assistant Team: 
 - ### [Kiarash Dadpour](https://www.linkedin.com/in/kiarash-dadpour-734283300/)
 - ### [Asal Mahmodi Nejad](https://www.linkedin.com/in/asal-mahmodi-65008b353/)
-- ### Saeed Belarak
-- ### Mehran Askarnezhad(https://www.linkedin.com/in/mehran-askarnezhad/)
+- ### [Mehran Askarnezhad](https://www.linkedin.com/in/mehran-askarnezhad/)
+
 
 ---
 ### Faculty of Mathematical Sciences, Guilan University 
